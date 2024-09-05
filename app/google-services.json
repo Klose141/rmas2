@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958530398261",
+    "project_id": "vandalizam-3bc57",
+    "storage_bucket": "vandalizam-3bc57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958530398261:android:c495a7f5895bf5adbd297c",
+        "android_client_info": {
+          "package_name": "com.example.vandalizam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByNh2EG_vXJF1kyirx6-iacdLsKp3VUCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
